@@ -1,7 +1,9 @@
 import React from "react";
 
-const ContentWrapper = () => {
-  return <div>ContentWrapper</div>;
+import "./style.scss";
+
+const ContentWrapper = ({ children }) => {
+  return <div className="contentWrapper">{children}</div>;
 };
 
 export default ContentWrapper;
