@@ -7,6 +7,8 @@ import { useNavigate, useLocation } from "react-router-dom";
 import ContentWrapper from "../contentWrapper/ContentWrapper";
 import logo from "../../assets/movix-logo.svg";
 
+import "./style.scss";
+
 const Header = () => {
   const [show, setShow] = useState("top");
   const [lastScrollY, setLastScrollY] = useState(0);
