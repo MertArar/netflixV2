@@ -1,4 +1,4 @@
-export const Playbtn = () => {
+export const PlayIcon = () => {
   return (
     <svg
       version="1.1"
@@ -19,7 +19,7 @@ export const Playbtn = () => {
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeMiterlimit="10"
-        points="73.5,62.5 148.5,105.8 73.5,149.1"
+        points="73.5,62.5 148.5,105.8 73.5,149.1 "
       ></polygon>
       <circle
         className="circle"
