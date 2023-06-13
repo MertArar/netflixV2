@@ -26,18 +26,26 @@ const Footer = () => {
           error modi veritatis, cumque inventore at.
         </div>
         <div className="socialIcons">
-          <span className="icon">
-            <FaGithub />
-          </span>
-          <span className="icon">
-            <FaLinkedin />
-          </span>
-          <span className="icon">
-            <FaMedium />
-          </span>
-          <span className="icon">
-            <FaUser />
-          </span>
+          <a href="https://github.com/MertArar">
+            <span className="icon">
+              <FaGithub />
+            </span>
+          </a>
+          <a href="https://www.linkedin.com/in/mert-arar-6788771bb/">
+            <span className="icon">
+              <FaLinkedin />
+            </span>
+          </a>
+          <a href="https://medium.com/@mertarar.ma">
+            <span className="icon">
+              <FaMedium />
+            </span>
+          </a>
+          <a href="https://mertarar.netlify.app/">
+            <span className="icon">
+              <FaUser />
+            </span>
+          </a>
         </div>
         <div className="infoText2">
           Copyright © 2023 Mert Arar. All rights reserved.
