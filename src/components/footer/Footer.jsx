@@ -18,12 +18,13 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-          veritatis libero, magni, ipsam culpa autem dolorem distinctio possimus
-          laborum odio accusantium quod ullam voluptatibus quis. Magnam corporis
-          maiores distinctio quos dolores deserunt, fugit sed nostrum aut
-          repellendus cumque inventore eaque natus tenetur. Impedit voluptas
-          error modi veritatis, cumque inventore at.
+          This web application is not made for users to watch TV series-movies.
+          For copyright reasons, you can only view trailers of production. You
+          can also access IMDB scores, categories, series/films description,
+          release dates, director/directors, writers, and actors/actresses.
+          Please visit and read the "Terms of Use", "Privacy-Policy", and "FAQ"
+          pages. However, you can send me your questions/suggestions via
+          linkedin.
         </div>
         <div className="socialIcons">
           <a href="https://github.com/MertArar">
